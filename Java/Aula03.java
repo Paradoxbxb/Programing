@@ -8,7 +8,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int totalCopias;
         System.out.println("informe o total de copias: ");
-        totalCopias =sc.nextInt();
+        totalCopias = sc.nextInt();
         double totalPago;
         if(totalCopias <= 100) {
             totalPago = totalCopias * 0.25;
