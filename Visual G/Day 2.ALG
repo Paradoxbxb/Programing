@@ -7,7 +7,7 @@
 Var
 Area,Base,Height:real
 
-Start 
+Inicio
 escreva ("Input the Base:")
 leia (Base)
 escreva ("Input the Height:")
