@@ -7,7 +7,7 @@
 Var 
 Area,Perimeter,Radious:real
 
-Start
+Inicio
 escreva ("Input the Radious: ")
 leia (Radious)
 Area<-(pi*Radious^2)
