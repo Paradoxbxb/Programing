@@ -1,15 +1,10 @@
-Algoritmo "semnome"
-//  
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 02/09/2019
-Var
-// Seção de Declarações das variáveis 
+Test
+// Date: 02/09/2019
+
+Var 
 numero: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
 escreva("Type a number: ")
 leia(numero)
 
