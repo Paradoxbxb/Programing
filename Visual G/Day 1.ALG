@@ -9,7 +9,7 @@ Name,Age:caracter
 Thx:caracter
 x,y,z:real
 
-Start
+Inicio
 escreva ("What is your name? ")
 leia (Name)
 escreva ("How old are you? ")
