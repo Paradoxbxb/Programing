@@ -13,8 +13,8 @@ int main (){
 	printf("---Alcool---\n");
 	printf("Up to 20 litros, discount of 3 percent per liter\n");
 	printf("Above 20 litros, discount of 5 percent per liter\n");
-    printf("---Gas---\n");
-    printf("Up to 15 liters, discount of 3,5 percent per liter\n"); 
+        printf("---Gas---\n");
+        printf("Up to 15 liters, discount of 3,5 percent per liter\n"); 
 	printf("Above 15 liter, discount of 6 percent per liter\n");
 	printf("::::::::::::\n");
 	printf("Options\n");
